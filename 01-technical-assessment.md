@@ -37,8 +37,6 @@ docker-compose down
 
 ## Tasks
 
----
-
 Now that you are familiar with the demo app and have managed to build and run
 it, here are some tasks for you to attempt. We would like to see an attempt
 at one of them. Have a read through and choose the task that interests you the
