@@ -1,0 +1,7 @@
+version: '3'
+services:
+  fibonacci-api:
+    build: ./fibonacci-api
+    image: kuala-fibonacci-api:test
+    ports:
+      - 8080:8080
