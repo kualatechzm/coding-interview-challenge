@@ -51,9 +51,9 @@ don't spend a week refactoring your code!
 ---
 
 Installing Docker Desktop is a little more involved on Windows as it requires the
-use of the 'Windows Subsystem for Linux' (WSL1) and also some virtualisation features
+use of the ['Windows Subsystem for Linux' (WSL2)](https://learn.microsoft.com/en-us/windows/wsl/install) and also some virtualisation features
 to be enabled in the BIOS. The
-[docker docs](https://docs.docker.com/docker-for-windows/install/) are helpful but you
+[docker docs](https://docs.docker.com/desktop/install/windows-install/) are helpful but you
 may prefer to set up a linux virtual machine on your computer (e.g. using VirtualBox),
 or use a [free AWS EC1 instance](https://aws.amazon.com/free) instead.
 
