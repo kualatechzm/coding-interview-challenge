@@ -1,3 +1,3 @@
-module github.com/kualatechzm/interview-coding-challenge
+module github.com/kualatechzm/coding-interview-challenge
 
 go 1.19

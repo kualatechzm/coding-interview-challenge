@@ -5,8 +5,9 @@ developer role at Kuala Tech. It is based around a small demo program that expos
 
 We have packaged it up with a Docker build environment to make it easier for
 you to build and run. In order to run it, you'll need to have the `docker`
-and `docker-compose` command line tools installed. You will also need a way
-of making requests to an HTTP API. On Unix systems such as Linux and OSX, the
+(and optionally `docker-compose` if not using the new Docker compose plugin) command line
+tools installed. You will also need a way of making requests to an HTTP API.
+On Unix systems such as Linux and OSX, the
 `curl` command line tool should be available. On Windows systems, you will
 need to install curl or another tool
 (such as [Insomnia](https://insomnia.rest/download)) to interact with the

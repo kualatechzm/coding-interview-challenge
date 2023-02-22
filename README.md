@@ -4,9 +4,9 @@ This is the first step in the interview process. Follow the instructions below t
 
 ## Pre-requisites
 
-1. A text editor: We recommend Visual Studio code (<https://code.visualstudio.com>)
+1. A text editor: we recommend Visual Studio code (<https://code.visualstudio.com>)
 2. You may need the Go programming language installed on your computer for the technical assessment, depending on the task you choose (<https://go.dev/dl>)
-3. Docker: for building and using containers for the technical assessment
+3. Docker: for building and running containers for the technical assessment
 
     * You can install the Docker Desktop - <https://docs.docker.com/get-docker>
     * Or, the Docker Engine - <https://docs.docker.com/engine/install>
@@ -34,7 +34,7 @@ Once the challenge is complete, please push the code to a new private repo and g
 
 ## A Note on Expected Duration
 
-Whichever task you have choose in the [technical assessment](/01-technical-assessment.md), we don't expect you to spend more than a couple
+Whichever task you choose in the [technical assessment](/01-technical-assessment.md), we don't expect you to spend more than a couple
 of hours on your solution: it should fit comfortably into one evening, so please
 don't spend a week refactoring your code!
 
